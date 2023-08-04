@@ -2,11 +2,8 @@
 Learn how to use steganography to hide information in plain sight.
 
 
-STEG TOOLS 
-
-MOST ARE INSTALLED ON THE PROVIDED KALI MACHINE
+STEG TOOLS - MOST ARE INSTALLED ON THE PROVIDED KALI MACHINE
 There are loads of online tools available as well
-
 
 
 AUDIO TOOLS
