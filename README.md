@@ -115,7 +115,7 @@ https://project-awesome.org/apsdehal/awesome-ctf#steganography-1
 https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography
 
 
-MORE STEG PECAN CTF CHALLEGES
+MORE STEG PECAN CTF CHALLENGES
 
 https://pecanplus.ecusri.org/?page=challengesECAN+ (ecusri.org)
 
