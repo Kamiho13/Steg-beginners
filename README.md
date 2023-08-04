@@ -3,7 +3,7 @@ Learn how to use steganography to hide information in plain sight.
 
 
 STEG TOOLS - MOST ARE INSTALLED ON THE PROVIDED KALI MACHINE
-There are loads of online tools available as well
+ - There are loads of online tools available as well
 
 
 AUDIO TOOLS
@@ -12,6 +12,7 @@ AUDIO TOOLS
 AUDACITY
 
 An open-source audio file and waveform-viewing tool. Audio waveforms can be seen using the spectogram view. Audacity can also enable you to slow down, reverse, and do other manipulations that might reveal a hidden message if you suspect there is one (if you can hear garbled audio, interference, or static).
+https://wavacity.com/
 
 
 SONIC VISUALIZER
