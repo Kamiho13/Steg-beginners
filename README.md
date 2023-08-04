@@ -33,13 +33,13 @@ IMAGE TOOLS
 
 STEGNANOGRAPHY ONLINE
 
-Online image encode and decoder
+Online image encode and decoder.
 https://stylesuxx.github.io/steganography/
 
 
 IMAGE STEGNANOGRAPHY
 
-Online image encode and decoder that hides images inside the lower "bits" of other images
+Online image encode and decoder that hides images inside the lower "bits" of other images.
 https://incoherency.co.uk/image-steganography/#
 
 
