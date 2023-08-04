@@ -6,7 +6,7 @@ STEG TOOLS - MOST ARE INSTALLED ON THE PROVIDED KALI MACHINE
  - There are loads of online tools available as well
 
 
-AUDIO TOOLS
+AUDIO TOOLS (Use one of the below audio tools for challenge #2)
 
 
 AUDACITY
@@ -29,13 +29,13 @@ https://www.stegonaut.com/
 
 IMAGE TOOLS
 
-STEGNANOGRAPHY ONLINE
+STEGNANOGRAPHY ONLINE (Use for challenge #1)
 
 Online image encode and decoder.
 https://stylesuxx.github.io/steganography/
 
 
-IMAGE STEGNANOGRAPHY
+IMAGE STEGNANOGRAPHY (Use for challenge #1)
 
 Online image encode and decoder that hides images inside the lower "bits" of other images.
 https://incoherency.co.uk/image-steganography/#
